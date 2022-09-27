@@ -59,7 +59,7 @@ h1 {
 
 img {
     height: 40%;
-    border-radius: 1000px;
+    border-radius: 100px;
     position: absolute;
     top: 100px;
     right: 240px;
@@ -162,15 +162,15 @@ h5 {
 }
 
 .connect {
-    background-color: black;
+    background-color: gainsboro;
     border-radius: 20px; 
     position: absolute;
     top: 200px;
     left: 100px;
     right: 100px;
     text-align: center;
-    color: aliceblue;
     text-decoration: none;
+    color: black;
     padding: 20px;
 }
 
@@ -204,3 +204,5 @@ h5 {
     right: 15%;
     text-align: right;
 }
+
+

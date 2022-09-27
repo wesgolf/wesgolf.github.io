@@ -52,7 +52,7 @@ li a {
 .title {
     position: absolute;
     top: 100px;
-    left: 100px;
+    left: 200px;
     font-size: 60px;
 }
 
@@ -60,7 +60,7 @@ h2 {
     font-weight: lighter;
     position: absolute;
     top: 170px;
-    left: 100px;
+    left: 200px;
     font-size: 40px;
 }
 
@@ -76,7 +76,7 @@ h2 {
     position: absolute;
     top: 250px;
     font-weight: bold;
-    left: 100px;
+    left: 200px;
     font-size: 30px;
 }
 
@@ -84,7 +84,7 @@ h2 {
     position: absolute;
     top: 290px;
     font-weight: lighter;
-    left: 100px;
+    left: 200px;
     font-size: 20px;
     line-height: 1.6;
 }
@@ -93,7 +93,7 @@ h2 {
     position: absolute;
     top: 250px;
     font-weight: bold;
-    left: 500px;
+    left: 600px;
     font-size: 30px;
 }
 
@@ -101,7 +101,7 @@ h2 {
     position: absolute;
     top: 290px;
     font-weight: lighter;
-    left: 500px;
+    left: 600px;
     font-size: 20px;
     line-height: 1.6;
 }
@@ -110,7 +110,7 @@ h2 {
     position: absolute;
     top: 350px;
     font-weight: bold;
-    left: 500px;
+    left: 600px;
     font-size: 30px;
 }
 
@@ -118,7 +118,7 @@ h2 {
     position: absolute;
     top: 390px;
     font-weight: lighter;
-    left: 500px;
+    left: 600px;
     font-size: 20px;
     line-height: 1.6;
 }
@@ -127,7 +127,7 @@ h2 {
     position: absolute;
     top: 450px;
     font-weight: bold;
-    left: 500px;
+    left: 600px;
     font-size: 30px;
 }
 
@@ -135,7 +135,7 @@ h2 {
     position: absolute;
     top: 490px;
     font-weight: lighter;
-    left: 500px;
+    left: 600px;
     font-size: 20px;
     line-height: 1.6;
 }
@@ -143,7 +143,7 @@ h2 {
 .product {
     position: absolute;
     top: 700px;
-    left: 100px;
+    left: 200px;
     font-size: 60px;
 }
 
@@ -152,7 +152,7 @@ h2 {
     font-weight: lighter;
     position: absolute;
     top: 715px;
-    left: 500px;
+    left: 600px;
     right: 200px;
 }
 
@@ -160,7 +160,7 @@ h2 {
 .cont {
     position: absolute;
     top: 850px;
-    left: 100px;
+    left: 200px;
     font-size: 60px;
 }
 
@@ -169,7 +169,7 @@ h2 {
     font-weight: lighter;
     position: absolute;
     top: 865px;
-    left: 500px;
+    left: 600px;
     right: 200px;
 }
 
@@ -189,7 +189,7 @@ h2 {
 .dp {
     position: absolute;
     top: 1050px;
-    left: 100px;
+    left: 200px;
     font-size: 60px;
 }
 
@@ -197,7 +197,7 @@ h2 {
     position: absolute;
     text-align: center;
     top: 1200px;
-    left: 10%;
+    left: 300px;
     right: 90%;
     font-size: 30px;
 }
@@ -217,7 +217,7 @@ h2 {
     position: absolute;
     text-align: center;
     top: 1350px;
-    left: 10%;
+    left: 300px;
     font-size: 30px;
 }
 
@@ -236,7 +236,7 @@ h2 {
     position: absolute;
     top: 1500px;
     font-size: 30px;
-    left: 10%;
+    left: 300px;
     right: 90%;
 }
 
@@ -254,7 +254,7 @@ h2 {
     position: absolute;
     top: 1650px;
     font-size: 30px;
-    left: 10%;
+    left: 300px;
     right: 90%;
 }
 
@@ -273,16 +273,15 @@ h2 {
 
 .design {
     position: absolute;
-    background-color: aqua;
     top: 1800px;
     width: 100%;
-    height: 500px;
+    height: 400px;
 }
 
 .tit {
     position: absolute;
     top: 50px;
-    left: 100px;
+    left: 200px;
     font-size: 60px;
     font-weight: normal;
 
@@ -291,7 +290,7 @@ h2 {
 .desc {
     position: absolute;
     top: 150px;
-    left: 100px;
+    left: 200px;
     font-weight: lighter;
     font-size: 20px;
     right: 50%;
@@ -314,26 +313,26 @@ h2 {
     position: absolute;
     top: 2300px;
     font-size: 60px;
-    left: 100px;
+    left: 200px;
 }
 
 .splash {
     position: absolute;
-    top: 2500px;
+    top: 2400px;
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 
 h1 {
     position: absolute;
-    top: 100px;
+    top: 200px;
     left: 200px;
     font-size: 40px;
 }
 
 h6 {
     position: absolute;
-    top: 170px;
+    top: 270px;
     left: 200px;
     font-size: 20px;
     text-align: left;
@@ -351,23 +350,23 @@ h6 {
 
 .signup {
     position: absolute;
-    top: 2300px;
+    top: 3000px;
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 
 .homescreen {
     position: absolute;
-    top: 2800px;
+    top: 3600px;
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 
 .settings {
     position: absolute;
-    top: 3300px;
+    top: 4200px;
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 
 
@@ -379,7 +378,7 @@ h6 {
 .footer {
     position: absolute;
     height: 200px;
-    top: 4050px;
+    top: 4800px;
     width: 100%;
 }
 
@@ -394,4 +393,62 @@ h6 {
     position: absolute;
     top: 20%;
     right: 10%;
+}
+
+
+
+
+
+.line1 {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    right: 10%;
+    text-align: center;
+    font-weight: 5px;
+    top: 650px;
+}
+
+
+.line2 {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    right: 10%;
+    text-align: center;
+    font-weight: 5px;
+    top: 1000px;
+}
+
+
+.line3 {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    right: 10%;
+    text-align: center;
+    font-weight: 5px;
+    top: 1800px;
+}
+
+
+
+.line4 {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    right: 10%;
+    text-align: center;
+    font-weight: 5px;
+    top: 2200px;
+}
+
+.line5 {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    right: 10%;
+    text-align: center;
+    font-weight: 5px;
+    top: 4800px;
 }
